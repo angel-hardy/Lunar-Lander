@@ -1,0 +1,1 @@
+confettiTrigger = true;
